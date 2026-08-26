@@ -24,7 +24,7 @@ If you have B.Tech previous year question papers that are not available in the a
 
 This project is based on and inspired by the original **GEHU PYQ Archive** maintained by the GEHU student community.
 
-Original project: `gehuhaldwani/pyqs`
+Original project: `https://haldwani.gehu.in/pyqs/`
 
 ---
 
