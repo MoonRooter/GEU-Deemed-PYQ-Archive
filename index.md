@@ -1,10 +1,6 @@
 ## Like our work?
 
-Give this repo a ⭐ on [GitHub](https://github.com/gehuhaldwani/pyqs)! 😎
-
-## Discord
-
-Join our [Discord](https://discord.gg/9tGGBV7tK8)
+Give this repo a ⭐ on [GitHub](https://github.com/MoonRooter/GEU-Deemed-PYQ-Archive)! 😎
 
 ## Tired of ads?
 
