@@ -1,14 +1,30 @@
-# PYQ Archive
+# GEU PYQ Archive
 
-This is a student contributed and maintained repository of GEHU question papers.
+A student-contributed and maintained archive of **B.Tech Previous Year Question Papers (PYQs)** for **Graphic Era (Deemed to be University)**.
 
-## Contribute Pyqs
+The goal of this project is to make previous year question papers easily accessible to GEU students and build a useful academic resource through student contributions.
 
-See [contribution guide](https://gehuhaldwani.github.io/pyqs/contribute/)
+## 📚 Available Papers
 
-## Credits
+Currently, this archive focuses on:
 
-<https://gehuhaldwani.github.io/pyqs/about/>
+* **University:** Graphic Era (Deemed to be University)
+* **Program:** B.Tech
+* **Semesters:** 1st – 8th
+
+More papers and programs may be added in the future.
+
+## 🤝 Contribute PYQs
+
+Contributions are welcome!
+
+If you have B.Tech previous year question papers that are not available in the archive, you can contribute them by opening a pull request or issue.
+
+## 🙏 Credits
+
+This project is based on and inspired by the original **GEHU PYQ Archive** maintained by the GEHU student community.
+
+Original project: `gehuhaldwani/pyqs`
 
 ---
 
@@ -20,38 +36,38 @@ Bun.js or Node.js >= v24.XX
 
 ## Steps
 
-0. Clone `gh-pages` branch
+### 0. Clone the `gh-pages` branch
 
-  ```sh
-  git clone --branch gh-pages --single-branch https://github.com/gehuhaldwani/pyqs.git pyqs-web
-  ```
+```sh
+git clone --branch gh-pages --single-branch https://github.com/MoonRooter/GEU-PYQ-Archive.git pyqs-web
+```
 
-1. Change directory
+### 1. Change directory
 
-  ```sh
-  cd pyqs-web
-  ```
+```sh
+cd pyqs-web
+```
 
-2. Clone `main` branch
+### 2. Clone the `main` branch
 
-  ```sh
-  git clone --branch main --single-branch https://github.com/gehuhaldwani/pyqs.git pyqs-web/pyqs
-  ```
+```sh
+git clone --branch main --single-branch https://github.com/MoonRooter/GEU-PYQ-Archive.git pyqs-web/pyqs
+```
 
-3. Install dependencies
+### 3. Install dependencies
 
-  ```sh
-  bun i
-  ```
+```sh
+bun i
+```
 
-4. Run
+### 4. Run locally
 
-  ```sh
-  bun --bun dev
-  ```
+```sh
+bun --bun dev
+```
 
-5. Build
+### 5. Build
 
-  ```sh
-  bun --bun run build
-  ```
+```sh
+bun --bun run build
+```
