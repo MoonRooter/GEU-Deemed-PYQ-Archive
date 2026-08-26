@@ -10,7 +10,6 @@ Currently, this archive focuses on:
 
 * **University:** Graphic Era (Deemed to be University)
 * **Program:** B.Tech
-* **Semesters:** 1st – 8th
 
 More papers and programs may be added in the future.
 
