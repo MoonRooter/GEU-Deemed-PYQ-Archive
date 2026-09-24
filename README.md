@@ -18,7 +18,7 @@ More papers and programs may be added in the future.
 Contributions are welcome!
 
 If you have B.Tech previous year question papers that are not available in the archive, you can contribute them by opening a pull request or issue.
-:-@Dizzy_moon
+👉 Telegram: @Dizzy_moon
 
 ## 🙏 Credits
 
